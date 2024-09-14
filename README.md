@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @M4V3R1CK07 (Aditya Kumar)
-- 👀 I’m interested in ...
+- 👀 I’m interested in
+  - Web Development (React, Node.js, TypeScript)
+  - Open Source Contributions
+  - Competitive Programming and Problem Solving
+  - Game Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects, especially with React, Node.js, or frontend design.
 - 📫 How to reach me aditya2708kumar@gmail.com
 
 <!---
