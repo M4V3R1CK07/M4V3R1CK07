@@ -6,7 +6,7 @@
 
 Building scalable web applications, intelligent systems, and solving real-world problems through code.
 
-[Portfolio](YOUR_PORTFOLIO_LINK) • [LinkedIn](YOUR_LINKEDIN_LINK) • [Email](YOUR_EMAIL)
+[Portfolio](mvrick.dev) • [LinkedIn](linkedin/in/m4v3r1ck) • [Email](aditya2708kumar@gmail.com)
 
 </div>
 
